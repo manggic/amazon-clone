@@ -1,0 +1,38 @@
+
+
+
+
+.subtotal{
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(205, 216, 216);
+}
+
+.subtotal__head{
+     display: flex;
+     align-items: center;
+     padding-bottom: 13px;
+}
+
+.subtotal__checkbox{
+    padding-bottom: 13px;
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+}
+
+
+.subtotal__checkbox input{
+    margin: 0px;
+    margin-right: 5px;
+}
+
+.subtotal__btn{
+    border: none;
+   flex: 1;
+   padding: 8px 5px;
+   background-color: rgb(97, 102, 57);
+   color: rgb(234, 231, 247);
+}
+

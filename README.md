@@ -1,5 +1,2 @@
 
-
-
-# Getting Started with Create React App
-
+### Amazon clone app using React.js
